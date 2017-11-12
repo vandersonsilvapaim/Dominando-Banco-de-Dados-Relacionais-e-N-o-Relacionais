@@ -1,7 +1,7 @@
 DESCRIBE my_schema.pais;
   
 INSERT INTO my_schema.pais (id,nome_ptbr,nome_eng,continente,capital) 
-values 
+VALUES 
 (1,'Andorra','Andorra','EU','Andorra la Vella'),
 (2,'Emirados Árabes Unidos','United Arab Emirates','AS','Abu Dhabi'),
 (3,'Afeganistão','Afghanistan','AS','Kabul'),
