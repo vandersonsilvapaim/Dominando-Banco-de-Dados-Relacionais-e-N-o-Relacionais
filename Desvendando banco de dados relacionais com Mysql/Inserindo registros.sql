@@ -1,7 +1,7 @@
 DESCRIBE my_schema.pais;
   
 INSERT INTO my_schema.pais (id,nome_ptbr,nome_eng,continente,capital) 
-VALUES 
+values 
 (1,'Andorra','Andorra','EU','Andorra la Vella'),
 (2,'Emirados Árabes Unidos','United Arab Emirates','AS','Abu Dhabi'),
 (3,'Afeganistão','Afghanistan','AS','Kabul'),
@@ -11,7 +11,7 @@ VALUES
 (7,'Armênia','Armenia','AS','Yerevan'),
 (8,'Antilhas Holandesas','Netherlands Antilles','NA','Willemstad'),
 (9,'Angola','Angola','AF','Luanda'),
-(10,'Antártica','Antarctica',' AN',''),
+(10,'Antártica','Antarctica','AN',''),
 (11,'Argentina','Argentina','SA','Buenos Aires'),
 (12,'Samoa Americana','American Samoa','OC','Pago Pago'),
 (13,'Áustria','Austria','EU','Vienna'),
@@ -35,7 +35,7 @@ VALUES
 (31,'Brasil','Brazil','SA','Brasilia'),
 (32,'Bahamas, Ilhas','Bahamas','NA','Nassau'),
 (33,'Butão','Bhutan','AS','Thimphu'),
-(34,'Ilha Bouvet','Bouvet Island',' AN',''),
+(34,'Ilha Bouvet','Bouvet Island','AN',''),
 (35,'Botsuana','Botswana','AF','Gaborone'),
 (36,'Belarus','Belarus','EU','Minsk'),
 (37,'Belize','Belize','NA','Belmopan'),
@@ -97,7 +97,7 @@ VALUES
 (93,'Guine-Bissau','Guinea-Bissau','AF','Bissau'),
 (94,'Guiana','Guyana','SA','Georgetown'),
 (95,'Hong Kong','Hong Kong','AS','Hong Kong'),
-(96,'Ilha Heard e Ilhas McDonald','Heard and Mc Donald Islands',' AN',''),
+(96,'Ilha Heard e Ilhas McDonald','Heard and Mc Donald Islands','AN',''),
 (97,'Honduras','Honduras','NA','Tegucigalpa'),
 (98,'Republica da Croácia','Croatia (Hrvatska)','EU','Zagreb'),
 (99,'Haiti','Haiti','NA','Port-au-Prince'),
@@ -221,7 +221,7 @@ VALUES
 (217,'Togo','Togo','AF','Lome'),
 (218,'Tailândia','Thailand','AS','Bangkok'),
 (219,'Tadjiquistao','Tajikistan','AS','Dushanbe'),
-(220,'Toquelau, Ilhas','Tokelau',' OC',''),
+(220,'Toquelau, Ilhas','Tokelau','OC',''),
 (221,'Timor Leste','East Timor','OC','Dili'),
 (222,'Turcomenistão','Turkmenistan','AS','Ashgabat'),
 (223,'Tunísia','Tunisia','AF','Tunis'),
@@ -233,7 +233,7 @@ VALUES
 (229,'Republica Unida da Tanzânia','United Republic of Tanzania','AF','Dodoma'),
 (230,'Ucrânia','Ukraine','EU','Kiev'),
 (231,'Uganda','Uganda','AF','Kampala'),
-(232,'Ilhas Menores Distantes dos Estados Unidos','United States Minor Outlying Islands',' OC',''),
+(232,'Ilhas Menores Distantes dos Estados Unidos','United States Minor Outlying Islands','OC',''),
 (233,'Estados Unidos','United States','NA','Washington'),
 (234,'Uruguai','Uruguay','SA','Montevideo'),
 (235,'Uzbequistão','Uzbekistan','AS','Tashkent'),
